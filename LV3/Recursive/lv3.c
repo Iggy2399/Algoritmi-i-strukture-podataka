@@ -12,7 +12,7 @@ int main(){
 }
 
 int povrh(int n, int m){
-    if(m == 0 || m == n || n ==1){
+    if(m == 0 || m == n || n == 1){
         return 1;
     }
     else{
